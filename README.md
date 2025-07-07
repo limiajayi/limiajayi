@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey, I'm Temi
+
+Computer Science Student at UOB
+I create websites
 
 <!--
 **limiajayi/limiajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
