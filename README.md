@@ -5,7 +5,7 @@ I'm a Computer Science student at the University of Birmingham, currently on pla
 ### ☝️🤓 What I'm working on
 - **[PlotThePlot](https://github.com/limiajayi/PlotThePlot-Demo)** a web app for visualizing your relationship with media.
 - **[Affirmations](https://affirmations-gamma.vercel.app/)** for when you need a pick me up.
-- Always tinkering with side projects. My portfolio is [here](https://portfolio-kappa-sepia-46.vercel.app/).
+- Always tinkering with side projects. My portfolio is [here](https://temiajayi.vercel.app/).
 
 ### 🫳☎️ Tech I use
 TypeScript · JavaScript · React · Node.js · Java · HTML/CSS
