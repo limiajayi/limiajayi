@@ -3,9 +3,10 @@
 I'm a Computer Science student at the University of Birmingham, currently on placement as a Software Engineer Intern. I mostly build with TypeScript and I enjoy making tools that are fun and easy to use.
 
 ### ☝️🤓 What I'm working on
-- **[PlotThePlot](https://github.com/limiajayi/PlotThePlot-Demo)** a web app for visualizing your relationship with media.
+- **[Portfolio](https://temiajayi.vercel.app/)** to see what I'm tinkering with.
+- **[PlotThePlot](https://github.com/limiajayi/PlotThePlot-Demo)**, a web app for visualizing your relationship with media.
 - **[Affirmations](https://affirmations-gamma.vercel.app/)** for when you need a pick me up.
-- Always tinkering with side projects. My portfolio is [here](https://temiajayi.vercel.app/).
+- **[Claude Bookmark Extension](https://github.com/limiajayi/claude-bookmark-extension)** for chrome + claude.ai only, to bookmark prompt-response pairs.
 
 ### 🫳☎️ Tech I use
 TypeScript · JavaScript · React · Node.js · Java · HTML/CSS
