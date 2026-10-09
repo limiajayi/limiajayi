@@ -1,4 +1,4 @@
-## Yo, I'm Temi 🙂
+## Yo, I'm Temi 😊
 
 I'm a Computer Science student at the University of Birmingham, currently on placement as a Software Engineer Intern. I mostly build with TypeScript and I enjoy making tools that are fun and easy to use.
 
