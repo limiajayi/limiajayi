@@ -6,10 +6,10 @@ I'm a Computer Science student at the University of Birmingham, currently on pla
 - **[Portfolio](https://temiajayi.vercel.app/)** to see what I'm tinkering with.
 - **[PlotThePlot](https://github.com/limiajayi/PlotThePlot-Demo)**, a web app for visualizing your relationship with media.
 - **[Affirmations](https://affirmations-gamma.vercel.app/)** for when you need a pick me up.
-- **[Claude Bookmark Extension](https://github.com/limiajayi/claude-bookmark-extension)** for chrome + claude.ai only, to bookmark prompt-response pairs.
+- **[Prompts Bookmark Extension](https://github.com/limiajayi/prompts-bookmark-extension)** for chrome + claude.ai only, to bookmark prompt-response pairs.
 
 ### 🫳☎️ Tech I use
-TypeScript · JavaScript · React · Node.js · Java · HTML/CSS
+TypeScript · JavaScript · React · Node.js · Java · Python · Go · HTML/CSS
 
 ### 🔭 Outside of code
 - Big fan of astronomy, writing and painting.
